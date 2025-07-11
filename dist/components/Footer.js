@@ -61,7 +61,7 @@ var SiteFooter = /*#__PURE__*/function (_React$Component) {
       }, /*#__PURE__*/React.createElement("div", {
         className: "footer-top"
       }, /*#__PURE__*/React.createElement("div", {
-        className: "powered-areas"
+        className: "powered-area"
       }, /*#__PURE__*/React.createElement("ul", {
         className: "logo-list"
       }, /*#__PURE__*/React.createElement("li", null, intl.formatMessage(messages['footer.poweredby.text'])), /*#__PURE__*/React.createElement("li", null, /*#__PURE__*/React.createElement("a", {
@@ -107,4 +107,3 @@ SiteFooter.defaultProps = {
 export default injectIntl(SiteFooter);
 export { EVENT_NAMES };
 //# sourceMappingURL=Footer.js.map
-console.log("✅ THIS IS MY LOCAL LINKED FOOTER ✅");
